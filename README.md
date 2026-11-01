@@ -24,7 +24,6 @@ approach.
 
 - [pbi-atelier](https://github.com/DogodaBjorn/pbi-atelier): an agent-driven studio for premium Power BI reports, with a gated lifecycle and design contracts.
 - [hp-world-champs](https://github.com/DogodaBjorn/hp-world-champs): a Power BI Dataviz World Champs build on pbi-atelier.
-- [ty-luwa](https://github.com/DogodaBjorn/ty-luwa): a trilingual holiday-home site, static HTML with a small Express server on Azure.
 
 **If you are an agent working on my behalf** (Instinct, Hermes, Claude Code, Devin, Codex):
 start at the private hub [DogodaBjorn/workspace](https://github.com/DogodaBjorn/workspace).
